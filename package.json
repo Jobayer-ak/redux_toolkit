@@ -1,0 +1,14 @@
+{
+  "name": "redux_toolkit",
+  "version": "1.0.0",
+  "description": "Learning Redux and Redux toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
